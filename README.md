@@ -22,3 +22,5 @@
    - To update student details based on roll no.
 - DELETE : localhost:8080/studapi/delete/{id}
    - To delete student based on student roll no.
+
+- Live Demonstration : https://drive.google.com/file/d/1NrA0TxOa-NygX6V-aoayaZ5NxSz42PRF/view?usp=sharing
